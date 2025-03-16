@@ -32,3 +32,17 @@ B.In the next Section, Package gallery should be visible, in one row, user shoul
 Sample Reference Image:sample_reference_image.png
 C.After Package Sections, add Services section where you need to add various services offered by the company.
 Some examples are Affordable Hotel, Food & Drinks, Safety Guide. You need to add a total of 6 services, out of which atleast you 3 services you must add on your own.These services should be design as per your convenience.You may choose bullets, card, slider etc.
+
+Checkpoint 3
+
+After Services Sections, add Gallery section where you need to add various photos, glimpse experienced by the company.
+These gallery should be design as per your convenience. You may choose card, slider etc.
+Add transform (scale) css property to the images, when user hover mouse on it.
+After the end of Gallery Section, add About Use section.
+Create 2 section of a row having 50% width each.
+In the 50% width add image related to brand or company.
+In the right 50% width add a company information, establishment, other details as per your convenience.
+At last (bottom) add footer which should contain minimum brandname, social media icon like Instagram, facebook etc.
+Link may be inactive.
+Add copyright symbol with appropriate message like All Rights are Reserved.
+
