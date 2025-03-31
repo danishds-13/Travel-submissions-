@@ -46,3 +46,15 @@ At last (bottom) add footer which should contain minimum brandname, social media
 Link may be inactive.
 Add copyright symbol with appropriate message like All Rights are Reserved.
 
+
+Checkpoint 4 
+
+A.After clicking on the Register Button, Modal should appear if you know bootstrap OR you may choose to open a new page that is register.html
+In the register form, add fullname, contact, date of birth, email id, password, gender, register button, below register button, link which redirect login file should visible.
+Use proper javascript validation.
+Add proper css design so that form should looks decent.
+B.While clicking on login button from the home page, modal should appear if in case you know bootstrap or new page should appear login.html.
+In the login file, form should contain email id and password and login button, below login button, link which redirect to register page should visible
+C.Deploy website freely on github or netlify website.
+
+Submission of the Project Report, please use the template to prepare the same.
